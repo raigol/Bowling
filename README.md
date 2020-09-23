@@ -7,6 +7,11 @@ To run the program
 
 git clone https://github.com/raigol/Bowling
 
+Check for .NET Core runtime
+dotnet --version  
+
+If needed, install .NET Core Runtime 3.1
+
 dotnet run --project ./Bowling/Bowling/Bowling.csproj
 
-when asked for input file, then submit path to input.txt
+When asked for input file, then submit path to input.txt
