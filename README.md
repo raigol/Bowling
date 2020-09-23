@@ -1,7 +1,7 @@
 # Bowling Game
 
 American Ten-Pin Bowling game produces the total score for the game and displays the results for frames. 
-The game reads input from comma separated list of rolls. 
+The game reads input from a file containing comma separated list of rolls. 
 
 To run the program
 
